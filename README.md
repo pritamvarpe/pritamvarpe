@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Varpe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pritamvarpe&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritamvarpe"/>
-</p>
 
 
 - 🔭 I’m currently working on Cloud-based Field Force Management System **FieldVision Analytics**
