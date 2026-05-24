@@ -15,7 +15,7 @@
 - 📫 How to reach me **pritamvarpe71@gmail.com**
 
 - 📄 Know about my experiences  
-  [Resume](https://drive.google.com/file/d/1GoZ9rZK5WuhPNz-B6SbFov3okhdXlYrg/view?usp=sharing)
+  [Resume](https://drive.google.com/file/d/1-VnGno9UXcktViKqf9_H30izHYgH3Ogh/view?usp=sharing)
 
 - ⚡ Fun fact **😄 I think debugging is easier than explaining the bug.**
 
