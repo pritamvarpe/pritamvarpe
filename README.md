@@ -3,21 +3,21 @@
 
 
 
-- 🔭 I’m currently working on Cloud-based Field Force Management System **FieldVision Analytics**
 
-- 🌱 I’m currently learning System Design Basics **Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on Crop Yield Prediction System  
-  [AgroPredict](https://agropredict-app.onrender.com/)
+🔭 I’m passionate about building scalable backend applications and solving real-world problems through software.
 
-- 💬 Ask me about **Java, REST APIs, MongoDB**
+🌱 I’m continuously learning Java, System Design, Data Structures & Algorithms, and modern backend technologies.
 
-- 📫 How to reach me **pritamvarpe71@gmail.com**
+👯 I’m open to collaborating on open-source Java, backend, and AI-powered projects.
 
-- 📄 Know about my experiences  
-  [Resume](https://drive.google.com/file/d/1-VnGno9UXcktViKqf9_H30izHYgH3Ogh/view?usp=sharing)
+💬 Ask me about Java, Spring Boot, REST APIs, MongoDB, SQL, and Git.
 
-- ⚡ Fun fact **😄 I think debugging is easier than explaining the bug.**
+📫 How to reach me: pritamvarpe71@gmail.com
+
+📄 Know about my experiences: Resume
+
+⚡ Fun fact: 😄 I think debugging is easier than explaining the bug.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
